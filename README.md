@@ -1,3 +1,6 @@
+<<<<<<< HEAD
+0x11. C - printf
+=======
 This is a 0x11.C -printf group project by Taelo Lebelo and Charmaine Motlhabi and it contains the following tasks:
 
 0. I'm not going anywhere. You can print that wherever you want to. I'm here and I'm a Spur for life
@@ -31,3 +34,4 @@ This is a 0x11.C -printf group project by Taelo Lebelo and Charmaine Motlhabi an
 14. The flood of print has turned reading into a process of gulping rather than savoring
 
 15. *
+>>>>>>> 18e28c5ec9933553cc4b7552148c2f08608ccfcf
