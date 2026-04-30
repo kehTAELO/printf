@@ -3,8 +3,12 @@
 =======
 This is a 0x11.C -printf group project by Taelo Lebelo and Charmaine Motlhabi.
 
-Description: 
-Topics: (none)
+Description: Custom printf() function implementation in C demonstrating low-level system programming and 
+structured logic development. This project requires deep understanding of variadic functions, 
+buffer management, format string parsing, and system-level I/O operations. Showcases ability 
+to work with complex data structures and implement critical system utilities from scratch.
+
+Topics: 
 
 0. I'm not going anywhere. You can print that wherever you want to. I'm here and I'm a Spur for life
 
