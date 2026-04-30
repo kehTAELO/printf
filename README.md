@@ -8,7 +8,8 @@ structured logic development. This project requires deep understanding of variad
 buffer management, format string parsing, and system-level I/O operations. Showcases ability 
 to work with complex data structures and implement critical system utilities from scratch.
 
-Topics: 
+Topics: c-programming, system-programming, printf, variadic-functions, i-o-operations, 
+low-level-programming, string-manipulation, alx, systems-engineering
 
 0. I'm not going anywhere. You can print that wherever you want to. I'm here and I'm a Spur for life
 
