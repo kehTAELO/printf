@@ -1,7 +1,9 @@
 <<<<<<< HEAD
 0x11. C - printf
 =======
-This is a 0x11.C -printf group project by Taelo Lebelo and Charmaine Motlhabi and it contains the following tasks:
+This is a 0x11.C -printf group project by Taelo Lebelo and Charmaine Motlhabi.
+
+
 
 0. I'm not going anywhere. You can print that wherever you want to. I'm here and I'm a Spur for life
 
